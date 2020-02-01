@@ -70,6 +70,8 @@ greet_user()
   ```
   4. Open the `C:\dev\week3` folder from your VS Code and start modifying the code.
 
+// changes here 
+
 ## References
 * [Python Documentation - Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 * [Socratica - Dictionaries](https://youtu.be/XCcpzWs-CI4)
